@@ -1,3 +1,5 @@
+my fricalackin wakatime is broken
 
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=TacoNoBurrito&theme=dracula)]
-owa
+# so im depressed now :(
+
+ - Please fix ur flapping software wakatime!
