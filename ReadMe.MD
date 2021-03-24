@@ -1,5 +1,5 @@
 my fricalackin wakatime is broken
 
-# so im depressed now :(
+# so my readme is sad now
 
  - Please fix ur flapping software wakatime!
