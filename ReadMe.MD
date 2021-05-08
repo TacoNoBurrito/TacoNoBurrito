@@ -9,4 +9,14 @@ I can code in these languages:
  - Java
  - Markdown (html, css)
 
+I take commisions for nukkit or pocketmine plugins.
+ - You can contact me at my discord: Taco!#1305
+
+Join my MCPE Prisons Server! 
+ - IP: Play.ZPrisons.ML
+ - Port: 19173
+
+
+
+
 
