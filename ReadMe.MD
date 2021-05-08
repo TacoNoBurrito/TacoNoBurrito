@@ -1,5 +1,12 @@
-my fricalackin wakatime is broken
+# Hai 👋
 
-# so my readme is sad now
+Welcome to my GitHub profile.
 
- - Please fix ur flapping software wakatime!
+I can code in these languages:
+ - PHP
+ - Javascript
+ - Python
+ - Java
+ - Markdown (html, css)
+
+
