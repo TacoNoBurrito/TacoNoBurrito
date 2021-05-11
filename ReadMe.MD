@@ -8,6 +8,7 @@ I can code in these languages:
  - Python
  - Java
  - Markdown (html, css)
+ - golang (smol amount)
 
 I take commisions for nukkit or pocketmine plugins.
  - You can contact me at my discord: Taco!#1305
