@@ -14,7 +14,7 @@ I Feel Comfortable In These Languages
 I take Pocketmine & Nukkit Commisions. 
 
 You can contact me here:
- - <i class="fab fa-discord"></i> Taco!#1305
+ - <i class="fab fa-discord"></i> Taco!#0788
  - <i class="fa fa-envelope"></i> ttaco4574@gmail.com
 
 Thanks for viewing my profile.
